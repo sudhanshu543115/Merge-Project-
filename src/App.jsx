@@ -8,8 +8,9 @@ function App() {
   return (
     <>
     <h1>MERGE GITHUB</h1>
+
     
-    
+    <h1>About Feature</h1>
    
     
      
